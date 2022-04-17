@@ -1,9 +1,9 @@
 {
-    "token": "",
-    "ownerId": [""],
+    "token": "#5259",
+    "ownerId": ["everyone"],
 
-    "names": [],
+    "names": [julia],
     "luckyInteraction": 40,
 
-    "channelsInteract": [""]
+    "channelsInteract": ["chat"]
 }
